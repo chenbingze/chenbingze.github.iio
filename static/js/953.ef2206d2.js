@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkai_livestock_fronted"]=self["webpackChunkai_livestock_fronted"]||[]).push([[953],{67953:function(n,e,r){r.r(e),r.d(e,{default:function(){return c}});var t=r(66252);function u(n,e){return(0,t.wg)(),(0,t.iD)("div",null,"all bull info")}var i=r(83744);const l={},a=(0,i.Z)(l,[["render",u]]);var c=a}}]);
